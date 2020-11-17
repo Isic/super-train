@@ -1,7 +1,5 @@
-[
-  {
+{
     "title" : "Naziv",
     "price" : "Cijena",
     "category" : "Kategorija"
-  }
-]
+}
